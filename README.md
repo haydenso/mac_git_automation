@@ -6,15 +6,14 @@
 3. Setup gitclick (https://github.com/maximilianschmitt/gitclick - this requires npm and node installed)
 4. Open terminal (cmd + space)
 
-    sudo chmod +x ~/.git_automate.sh
+    sudo chmod +x ~/.git_automate.sh  
     sudo nano .zshrc  
 
 5. Once in nano editor, add the below line
     
     source ~./.git_automate.sh
-    
-6. After saving the new .zshrc file, ty
-pe the command in terminal
+
+6. After saving the new .zshrc file, type the command in terminal
     
     export .zshrc
 
