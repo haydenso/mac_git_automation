@@ -36,7 +36,7 @@ Shortcut for add, commit and push to origin master all in one line with a messag
     Example:
     push button padding edited
 
-    Note: speech marks are not needed for the message pa
+    Note: speech marks are not needed for the message parameter
 
 ## Using bash
 
